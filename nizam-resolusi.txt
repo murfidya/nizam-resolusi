@@ -4,3 +4,11 @@ NIZAM RESOLUSI
 - membuat mini projek dalam jangka waktu dekat
 - mempelajari html 
 - mempelajari css
+
+EN translation
+
+- Commit to learning programming every day
+- Create a study plan and decide which programming languages to learn
+- Complete a small project in the near future
+- Learn HTML
+- Learn CSS
